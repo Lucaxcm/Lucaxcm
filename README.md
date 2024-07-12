@@ -3,7 +3,7 @@ Opa Bão???👋
 </h1>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Lucaxcm/Lucaxcm/blob/main/GIFS/gifs.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Lucaxcm/Lucaxcm/blob/main/GIFS/R34.gif">
 </div>
 
 </br>
