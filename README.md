@@ -37,13 +37,3 @@ Contato 📞
 &ensp;
 <a href="https://www.youtube.com/watch?v=KWP8pQnGoBw" target="_blank" align="center"><img height="50" width="50" src="https://skillicons.dev/icons?i=gmail"></a>
 </div>
-<h1 align="center">
-Gráficos 📊
-</h1>
-</br>
-<div align="center">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaxcm&theme=dracula&hide_border=false" height="400" width="500" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaxcm&theme=dracula&show_icons=true&hide_border=false" height="400" width="500" >
-
-</div>
