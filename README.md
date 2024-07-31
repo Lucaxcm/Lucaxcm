@@ -12,7 +12,7 @@ Opa Bão???👋
 Sobre Mim 💬
 </h1>
 
-<div>
+<div align="center">
 Tenho 20 anos, curso Eng. Computação; Utilizo o GitHub como um caderno online.
 </div>
 
