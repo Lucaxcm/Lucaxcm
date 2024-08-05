@@ -23,7 +23,7 @@ Linguagens 👨‍💻🛠
 </br>
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,Dados)](https://skillicons.dev)
 
 </div>
 
