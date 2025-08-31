@@ -1,10 +1,10 @@
-<h1 align="center"> Opa Bão??? 👋 </h1>
+<h1 align="center"> Opa Blz??? 👋 </h1>
 
 <div align="center">
   <img height="300" width="700" alt="GIF" src="https://github.com/Lucaxcm/Lucaxcm/blob/main/GIFS/R34.gif">
 </div>
 
----
+
 
 <h1 align="center"> Sobre Mim 💬 </h1>
 
@@ -13,7 +13,7 @@
   Utilizo o GitHub como meu <i>caderno online</i> 📚
 </div>
 
----
+
 
 <h1 align="center"> Linguagens 👨‍💻🛠 </h1>
 
@@ -23,7 +23,7 @@
 
 </div>
 
----
+
 
 <h1 align="center"> Contato 📞 </h1>
 
