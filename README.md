@@ -32,7 +32,7 @@ Contato 📞
 </br>
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=KWP8pQnGoBw" target="_blank" align="center"><img height="50" width="50" src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href=""></a>
 &ensp;
-<a href="https://www.youtube.com/watch?v=KWP8pQnGoBw" target="_blank" align="center"><img height="50" width="50" src="https://skillicons.dev/icons?i=gmail"></a>
+<a href=""></a>
 </div>
